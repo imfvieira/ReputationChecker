@@ -29,7 +29,12 @@ Para rodar este notebook, você precisará:
 
 1.  Execute todas as células do notebook no Google Colab.
 2.  Quando solicitado, digite o endereço IP ou domínio que você deseja avaliar.
+![image](https://github.com/user-attachments/assets/2a2265af-ce70-4b13-97dc-ebde7da308e9)
+![image](https://github.com/user-attachments/assets/b24a6ac4-5be2-405f-b48f-6e6c3751a6db)
+
 3.  O sistema irá executar os três agentes e exibir os resultados de cada etapa, finalizando com a avaliação de reputação.
+![image](https://github.com/user-attachments/assets/49c8f975-3942-4823-982d-2f04cbc06d3d)
+
 
 ## Estrutura do Código
 
