@@ -1,7 +1,5 @@
 # ReputationChecker
-Jupyter Notebook para avaliação de Reputação de Domínios e IPs com Agentes de IA
-
-# Análise de Reputação de IP/Domínio com Agentes Gemini
+# Análise de Reputação de IP/Domínio com Multi Agentes Gemini via Colab.
 
 Este projeto utiliza a SDK do Google Gemini para criar um sistema de três agentes que trabalham em conjunto para analisar a reputação de um endereço IP ou domínio fornecido pelo usuário.
 
