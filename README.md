@@ -2,7 +2,7 @@
 # Análise de Reputação de IP/Domínio com Multi Agentes Gemini via Colab.
 
 Este projeto utiliza a SDK do Google Gemini para criar um sistema de três agentes que trabalham em conjunto para analisar a reputação de um endereço IP ou domínio fornecido pelo usuário.
-
+Esse notebook foi criado a partir do seguinte notebook: https://github.com/fabriciocarraro/Google-ADK_AI-Agent-for-social-media/blob/main/Google_ADK_AI_Agent_for_social_media.ipynb
 ## Como funciona
 
 O sistema é composto por três agentes:
